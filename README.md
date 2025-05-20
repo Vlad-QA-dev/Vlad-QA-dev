@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/CharlesProxy-6600cc?style=for-the-badge&logoColor=white&label=Charles"/>
-  <img src="https://img.shields.io/badge/ApkTool-F44336?style=for-the-badge&logoColor=white&label=APKTool"/>
   <img src="https://img.shields.io/badge/TestFlight-0DB7ED?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/XCUITest-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
