@@ -1,9 +1,13 @@
 <div align="center">
-
-  <!-- 1) СТАТИСТИКА СВЕРХУ -->
-  ## 📊 GitHub Статистика
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vlad-QA-dev&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad-QA-dev&layout=compact&theme=radical)
+  <!-- 4) Интро и остальные блоки -->
+  # Привет, меня зовут Влад 👋  
+  **QA-инженер** с вниманием к деталям  
+  Пишу тесты, покрывающие прод, как бабушкино одеяло — надёжно и с любовью 🧵
+  <!-- 3) АНИМАЦИЯ НЕМНОГО ПОНИЖЕ -->
+  <hr />
+  <p align="center">
+    <img src="https://media.giphy.com/media/i0K0OSu8OY0jdWsOoN/giphy.gif" width="100%" alt="Runner Animation"/>
+  </p>
 
   <!-- 2) СТЕК ИНСТРУМЕНТОВ -->
   ### 🧰 Мой стек
@@ -35,12 +39,12 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
   </p>
+ <!-- 1) СТАТИСТИКА СВЕРХУ -->
+  ## 📊 GitHub Статистика
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vlad-QA-dev&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad-QA-dev&layout=compact&theme=radical)
 
-  <!-- 3) АНИМАЦИЯ НЕМНОГО ПОНИЖЕ -->
-  <hr />
-  <p align="center">
-    <img src="https://media.giphy.com/media/i0K0OSu8OY0jdWsOoN/giphy.gif" width="100%" alt="Runner Animation"/>
-  </p>
+
 
   <!-- 4) Интро и остальные блоки -->
   # Привет, меня зовут Влад 👋  
