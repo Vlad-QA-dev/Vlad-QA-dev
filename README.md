@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Allure-1A1A1A?style=for-the-badge&logo=allure"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
   <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql"/>
+  <img src="https://img.shields.io/badge/CharlesProxy-6600cc?style=for-the-badge&logo=charlesproxy"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
