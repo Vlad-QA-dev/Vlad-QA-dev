@@ -36,6 +36,11 @@
 
 </div>
 
+## 🎮 Моя игра на Python
+
+Попробуй мою мини-игру, написанную на Python — [Сыграть / Скачать](https://github.com/Vlad-QA-dev/my-python-game)
+
 ## 📊 GitHub Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vlad-QA-dev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad-QA-dev&layout=compact&theme=radical)
+
